@@ -6,6 +6,7 @@ public class TestScripct1  extends BaseClass1{
 	@Test
 	public void sample1() {
 		
+		
 	}
 
 }

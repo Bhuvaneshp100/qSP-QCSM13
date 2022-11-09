@@ -2,48 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-11-03T07:40:46 IST" name="Default suite" finished-at="2021-11-03T07:41:09 IST" duration-ms="23524">
+  <suite started-at="2022-04-01T16:15:00 IST" name="Default suite" finished-at="2022-04-01T16:15:44 IST" duration-ms="44131">
     <groups>
     </groups>
-    <test started-at="2021-11-03T07:40:46 IST" name="Default test" finished-at="2021-11-03T07:41:09 IST" duration-ms="23524">
-      <class name="com.actitime.generic.TestScripct1">
-        <test-method is-config="true" signature="configBS()[pri:0, instance:com.actitime.generic.TestScripct1@31368b99]" started-at="2021-11-03T07:40:46 IST" name="configBS" finished-at="2021-11-03T07:40:46 IST" duration-ms="10" status="PASS">
+    <test started-at="2022-04-01T16:15:00 IST" name="Default test" finished-at="2022-04-01T16:15:44 IST" duration-ms="44131">
+      <class name="paywheel.PaywheelTest">
+        <test-method is-config="true" signature="baseclass()[pri:0, instance:paywheel.PaywheelTest@7a69b07]" started-at="2022-04-01T16:15:00 IST" name="baseclass" finished-at="2022-04-01T16:15:44 IST" duration-ms="44034" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- configBS -->
-        <test-method is-config="true" signature="configBT()[pri:0, instance:com.actitime.generic.TestScripct1@31368b99]" started-at="2021-11-03T07:40:46 IST" name="configBT" finished-at="2021-11-03T07:40:46 IST" duration-ms="1" status="PASS">
+        </test-method> <!-- baseclass -->
+        <test-method signature="sample()[pri:0, instance:paywheel.PaywheelTest@7a69b07]" started-at="2022-04-01T16:15:44 IST" name="sample" finished-at="2022-04-01T16:15:44 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- configBT -->
-        <test-method is-config="true" signature="configBC()[pri:0, instance:com.actitime.generic.TestScripct1@31368b99]" started-at="2021-11-03T07:40:46 IST" name="configBC" finished-at="2021-11-03T07:41:01 IST" duration-ms="15681" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- configBC -->
-        <test-method is-config="true" signature="configBM()[pri:0, instance:com.actitime.generic.TestScripct1@31368b99]" started-at="2021-11-03T07:41:01 IST" name="configBM" finished-at="2021-11-03T07:41:02 IST" duration-ms="383" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- configBM -->
-        <test-method signature="sample1()[pri:0, instance:com.actitime.generic.TestScripct1@31368b99]" started-at="2021-11-03T07:41:02 IST" name="sample1" finished-at="2021-11-03T07:41:02 IST" duration-ms="12" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- sample1 -->
-        <test-method is-config="true" signature="configAM()[pri:0, instance:com.actitime.generic.TestScripct1@31368b99]" started-at="2021-11-03T07:41:02 IST" name="configAM" finished-at="2021-11-03T07:41:09 IST" duration-ms="7004" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- configAM -->
-        <test-method is-config="true" signature="configAc()[pri:0, instance:com.actitime.generic.TestScripct1@31368b99]" started-at="2021-11-03T07:41:09 IST" name="configAc" finished-at="2021-11-03T07:41:09 IST" duration-ms="388" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- configAc -->
-        <test-method is-config="true" signature="configAT()[pri:0, instance:com.actitime.generic.TestScripct1@31368b99]" started-at="2021-11-03T07:41:09 IST" name="configAT" finished-at="2021-11-03T07:41:09 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- configAT -->
-        <test-method is-config="true" signature="configAS()[pri:0, instance:com.actitime.generic.TestScripct1@31368b99]" started-at="2021-11-03T07:41:09 IST" name="configAS" finished-at="2021-11-03T07:41:09 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- configAS -->
-      </class> <!-- com.actitime.generic.TestScripct1 -->
+        </test-method> <!-- sample -->
+      </class> <!-- paywheel.PaywheelTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

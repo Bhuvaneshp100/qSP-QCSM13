@@ -13,9 +13,7 @@ public class Loginpage {
 	private WebElement usernametextfiled;
 
 	@FindBy(name="pwd")
-	private WebElement passwordtextfiled;
-	
-	@FindBy(xpath ="//div[text()='Login ']")
+	private WebElement passwordtextfiled; 
 	private WebElement loginbutton;
 
 	public WebElement getUsernametextfiled() {
